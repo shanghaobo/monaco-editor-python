@@ -1,0 +1,5 @@
+langservers:
+  python:
+    - python
+    - -m
+    - pyls
