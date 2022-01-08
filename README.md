@@ -18,7 +18,7 @@
 - python 安装`python-language-server`
 
   ```
-  pip install python-language-server
+  pip install 'python-language-server[all]'
   ```
 
 #### 启动前端项目
